@@ -13,7 +13,6 @@ export default function HorizonCard({children}) {
 
         <div className='h-80 w-[23rem] bg-neutral-900 overflow-hidden  transition-all scale-95 md:scale-100 flex justify-center items-center rounded-md  hover:scale-[1.1]'>
          <div>
-         <h4 className="text-center absolute -top-20 -left-20 opacity-50 text-blue-500  items-center text-lg" > <DiReact size={350}/></h4>
          <img src={img} className=" h-48 hover:saturate-150 saturate-0 transition " alt="" />
           <h3 className="text-center text-white flex font-cub items-center text-lg"> <FcStart/>Hitesh Chodhary </h3>
           <h3 className="text-center flex justify-center text-black bg-white rounded-full  font-cub items-center text-lg"> <TiSocialTwitter/> <TiSocialLinkedin/> </h3>

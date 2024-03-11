@@ -1,0 +1,15 @@
+{
+  "instructors": [
+    {
+      "name": "Hitesh Choudhary",
+      "img_url": "https://media.licdn.com/dms/image/D4D03AQH8CXRHAKQd6Q/profile-displayphoto-shrink_100_100/0/1693777638244?e=1715817600&v=beta&t=qqOB_lmxhhvfDZEJk_nhJ2OW3xvmrUTKh1SVE5IxXL8",
+      "channel_id": "UCNQ6FEtztATuaVhZKCY28Yw",
+      "language": "English, Hindi",
+      "social_link": {
+        "instagram": "https://www.instagram.com/hiteshchoudharyofficial/",
+        "twitter": "https://twitter.com/Hiteshdotcom",
+        "linkedin": "https://www.linkedin.com/in/hiteshchoudhary/"
+      }
+    }
+  ]
+}

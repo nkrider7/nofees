@@ -13,7 +13,7 @@ export default function Horizon() {
     <>
     
       <section ref={targetRef} className="reletive h-[200vh] bg-neutral-900">
-        <div className=" sticky top-0 bg-sky-500 h-screen flex items-center overflow-hidden">
+        <div className=" sticky top-0 bg-red-500 h-screen flex items-center overflow-hidden">
           <motion.div style={{ x }} className="flex gap-10">
             <HorizonCard />
             <HorizonCard />
